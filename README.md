@@ -1,4 +1,9 @@
-# SITEPOINT FRONTEND TEST
+# Counter App
+
+# Built with
+ - ReactJS
+ - Redux
+ - Material-UI
 
 # Requirements
  - NodeJS v7+
@@ -6,8 +11,8 @@
 
 # Install
 ```
-$ git clone https://github.com/shierro/frontend-test
-$ cd frontend-test && npm i
+$ git clone https://github.com/shierro/counter-app
+$ cd counter-app && npm i
 ```
 
 ## Start API First

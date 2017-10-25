@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <Paper zDepth={2}>
         <AppBar
-          title="Sitepoint frontend test"
+          title="Counter Application"
           iconClassNameRight="muidocs-icon-navigation-expand-more"
         />
       </Paper>

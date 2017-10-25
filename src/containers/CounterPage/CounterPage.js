@@ -141,8 +141,8 @@ class CounterPage extends Component {
           >
             <TableHeader enableSelectAll={false}>
               <TableRow>
-                <TableHeaderColumn>Name</TableHeaderColumn>
-                <TableHeaderColumn>Counter</TableHeaderColumn>
+                <TableHeaderColumn>Title</TableHeaderColumn>
+                <TableHeaderColumn>Count</TableHeaderColumn>
                 <TableHeaderColumn>Actions</TableHeaderColumn>
               </TableRow>
             </TableHeader>
