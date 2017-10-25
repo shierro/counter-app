@@ -1,0 +1,7 @@
+const ADD_COUNTER = 'ADD_COUNTER';
+const GET_COUNTERS = 'GET_COUNTERS';
+
+export {
+  ADD_COUNTER,
+  GET_COUNTERS
+};

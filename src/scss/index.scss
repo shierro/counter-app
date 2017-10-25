@@ -1,0 +1,16 @@
+// global styles
+@import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700';
+
+// general styles
+@import './colors';
+@import './variables';
+@import './shared';
+
+// component styles
+@import '../components/Header/header';
+
+// container styles
+@import '../containers/CounterPage/counterPage';
+
+// override
+@import './override';

@@ -1,0 +1,15 @@
+// Overrides 
+
+body {
+  background-color: $theme-default;
+  min-height: 100vh;
+}
+
+// Hide checkboxes since it's no use ATM
+table {
+  tr {
+    td:first-child, th:first-child {
+      display: none;
+    }
+  }
+}
